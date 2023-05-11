@@ -8,7 +8,7 @@ public class Driver {
 		
 		System.out.println("Count:" + counter.getCount());
 		
-		System.out.prin("increment");
+		System.out.printn("increment");
 
 		counter.increment();
 		
